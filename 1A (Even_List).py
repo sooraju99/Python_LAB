@@ -1,4 +1,4 @@
-a=int(input("ENter the number of array elements"))
+a=int(input("Enter the number of array elements"))
 arr=[]
 even=[]
 
